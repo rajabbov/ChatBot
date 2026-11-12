@@ -1,4 +1,6 @@
-# ChatBot
+<p align="center">
+  <img src="docs/banner.svg" alt="ChatBot — AIBrain — a chatbot that remembers the conversation, written in Java." width="100%">
+</p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![minSdk 24](https://img.shields.io/badge/minSdk_24-555)
 
